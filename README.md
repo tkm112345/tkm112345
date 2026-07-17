@@ -12,6 +12,20 @@
 
 <div align="center">
 
+### Certifications
+
+![AWS Certified Solutions Architect Associate](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20%E2%80%93%20Associate-FF9900?style=flat&logo=amazonwebservices&logoColor=white)
+![AWS Certified Developer Associate](https://img.shields.io/badge/AWS%20Certified-Developer%20%E2%80%93%20Associate-FF9900?style=flat&logo=amazonwebservices&logoColor=white)
+![AWS Certified SysOps Administrator Associate](https://img.shields.io/badge/AWS%20Certified-SysOps%20Administrator%20%E2%80%93%20Associate-FF9900?style=flat&logo=amazonwebservices&logoColor=white)
+
+<br/>
+
+</div>
+
+---
+
+<div align="center">
+
 ### GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=tkm112345&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="170"/>
