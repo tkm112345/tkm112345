@@ -2,7 +2,7 @@
 
 ### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=go,rust,python,cpp,typescript,react,docker,kubernetes,linux,git&perline=12" />
+<img src="https://skillicons.dev/icons?i=go,rust,python,cpp,typescript,react,docker,kubernetes,aws,linux,raspberrypi,git&perline=12" />
 
 <br/>
 
