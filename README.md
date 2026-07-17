@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=tkm112345&color=58A6FF&style=flat&label=Profile+Views" alt="Profile Views" />
+
 ### Tech Stack
 
 <img src="https://skillicons.dev/icons?i=go,rust,python,cpp,typescript,react,docker,kubernetes,aws,linux,raspberrypi,git&perline=12" />
