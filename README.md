@@ -45,6 +45,16 @@
 
 <div align="center">
 
+### Contribution Metrics
+
+<img src="./metrics.svg" alt="Metrics" />
+
+</div>
+
+---
+
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tkm112345/tkm112345/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tkm112345/tkm112345/output/github-snake.svg" />
