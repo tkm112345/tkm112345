@@ -20,16 +20,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: tkm112345
           filename: metrics.svg
-          output_action: none        # main はPR必須の保護があるため直接pushさせない
+          committer_branch: metrics  # main はPR必須の保護があるため、専用ブランチへcommit
           template: classic
           base: header, activity
           config_timezone: Asia/Tokyo
-
-      - run: mkdir -p dist && mv metrics.svg dist/metrics.svg
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: metrics     # 保護されていない専用ブランチに公開（snakeのoutputと同方式）
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
