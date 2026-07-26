@@ -47,7 +47,7 @@
 
 ### Contribution Metrics
 
-<img src="./metrics.svg" alt="Metrics" />
+<img src="https://raw.githubusercontent.com/tkm112345/tkm112345/metrics/metrics.svg" alt="Metrics" />
 
 </div>
 
