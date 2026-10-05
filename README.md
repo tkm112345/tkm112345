@@ -37,8 +37,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=tkm112345&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tkm112345&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="100%"/>
-
 </div>
 
 ---
